@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshj-rgb
-- 👀 I’m interested in web development, kotlin and swift as well as Database management. 
-- 🌱 I’m currently learning C++,HTML5 and CSS3
+- 👀 I’m interested in web development, kotlin, javascript as well as Database management. 
+- 🌱 I’m currently developing websites for local businesses.
 - 💞️ I’m looking to collaborate with bigger IT companies and freelancing in India.
 - 📫 How to reach me,mail me at harshjagadale3211@gmail.com
 
